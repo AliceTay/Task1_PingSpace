@@ -1,0 +1,81 @@
+.left-card {
+    background-color: black;
+    width: 30%;
+    height: 100%;
+    float: left;
+  }
+  
+  #title {
+    color: white;
+    margin-left:100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size:32px;
+    padding-top:20px;
+  }
+  
+  #leftcardcentertext {
+  margin-top:50%;
+  margin-left:50px;
+  text-align: left;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:35px;
+  color:white;
+  }
+  
+  #subleftcardcentertext{
+    margin-top: 20px;
+    font-size:24px;
+    font-weight: normal;
+  }
+  
+  .right-card {
+    background-color: white;
+    width: 70%;
+    height: 100%;
+    float: right;
+  }
+
+  #socialmediapanel{
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    color: white;
+  }
+
+  #mainpanel{
+      margin-top:100px;
+      margin-left:100px;
+      height:40%;
+  }
+
+  #mainpanelpic{
+      float:left;
+  }
+
+  #mainpaneldetails{
+      float:left;
+      margin-left:40px;
+  }
+
+#rightcardmainpanelcontent{
+  margin-top:20px;
+  width:400px;
+}
+
+#rightcardmainpanelcontentleft{
+  width:50%;
+  float:left;
+}
+
+#rightcardmainpanelcontentright{
+  width:50%;
+  float:left;
+}
+
+#imagepanel {
+  height:50%;
+  margin-left:100px;
+}
+
